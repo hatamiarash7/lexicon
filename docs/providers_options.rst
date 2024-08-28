@@ -14,6 +14,9 @@ List of options
 .. _aliyun:
 .. include:: providers/aliyun.rst
 
+.. _arvancloud:
+.. include:: providers/arvancloud.rst
+
 .. _aurora:
 .. include:: providers/aurora.rst
 
@@ -200,6 +203,9 @@ List of options
 .. _powerdns:
 .. include:: providers/powerdns.rst
 
+.. _qcloud:
+.. include:: providers/qcloud.rst
+
 .. _rackspace:
 .. include:: providers/rackspace.rst
 
@@ -220,6 +226,9 @@ List of options
 
 .. _softlayer:
 .. include:: providers/softlayer.rst
+
+.. _timeweb:
+.. include:: providers/timeweb.rst
 
 .. _transip:
 .. include:: providers/transip.rst
